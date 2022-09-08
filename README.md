@@ -1,6 +1,6 @@
 # windows 10 iso download
 
-[![windows 10 iso download](get-detail.png)](https://github.com/tech0put/windows10.iso.download)
+[![windows 10 iso download](get-detail.png)](https://icncomputer.com/windows-10-download-iso/)
 
 Windows 10 ISO images are available for download for everyone. Microsoft makes the ISO files available so that users can download and clean, install / update Windows without any problems. Microsoft provides multiple ways to download and install the latest version of Windows. We will discuss the ways in detail in this article.
 
